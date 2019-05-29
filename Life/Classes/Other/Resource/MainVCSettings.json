@@ -1,0 +1,26 @@
+[
+    {
+        "vcName": "HomeController",
+        "title": "Life",
+        "imageName": "tabBar_home_icon",
+        "imageNameClick":"tabBar_home_click_icon"
+    },
+    {
+        "vcName": "DiscoveryController",
+        "title": "发现",
+        "imageName": "tabBar_discovery_icon",
+        "imageNameClick":"tabBar_discovery_click_icon"
+    },
+    {
+        "vcName": "EssayController",
+        "title": "阅读",
+        "imageName": "tabBar_essay_icon",
+        "imageNameClick":"tabBar_essay_click_icon"
+    },
+    {
+        "vcName": "MyController",
+        "title": "我的",
+        "imageName": "tabBar_my_icon",
+        "imageNameClick":"tabBar_my_click_icon"
+    }
+]
